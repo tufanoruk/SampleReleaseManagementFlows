@@ -1,4 +1,4 @@
-# Customer Branch with New Featuers and Bugfix Flow
+# Customer Branch with New Features and Bugfix Flow
 
 This shows how a software company manages releases for both their main product (ACE) and customer-specific versions, specifically for a customer called "ACME-US."
 
